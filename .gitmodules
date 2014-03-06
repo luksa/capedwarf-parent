@@ -1,0 +1,9 @@
+[submodule "capedwarf-blue"]
+	path = capedwarf-blue
+	url = git://github.com/luksa/capedwarf-blue.git
+[submodule "capedwarf-shared"]
+	path = capedwarf-shared
+	url = git://github.com/luksa/capedwarf-shared.git
+[submodule "capedwarf-jboss-as"]
+	path = capedwarf-jboss-as
+	url = git://github.com/luksa/capedwarf-jboss-as.git
